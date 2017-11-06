@@ -1,4 +1,7 @@
 # Travel Info System(Admin Version)
+Travel Info System is a simple windows application which serves as a compact travel guide to the users. The whole software is implemented as two applications - 1 at the user side (DBMS) and 1 for administrators.
+
+## For general viewing on github
 * The Admin version of the travel info system for dbms project. 
 The code that we have done(i.e. backend functionality) is found in the .vb extension files 
 Ex:Form1.vb,Homepage.vb. 
