@@ -1,4 +1,4 @@
-# Travel-Info-System-Admin-Version-
+# Travel Info System(Admin Version)
 * The Admin version of the travel info system for dbms project. 
 The code that we have done(i.e. backend functionality) is found in the .vb extension files 
 Ex:Form1.vb,Homepage.vb. 
